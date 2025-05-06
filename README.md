@@ -24,3 +24,12 @@ mi-sitio/
 │
 └── 📁 components/            # Partes reutilizables (opcional)
     └── navbar.html           # Menú de navegación como fragmento
+
+nav para navegar 
+meter las card en un solo section 
+areglar el formulario en un section  
+plasholder en los iunput 
+titulo 
+
+
+
